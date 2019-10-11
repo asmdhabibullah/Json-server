@@ -1,0 +1,23 @@
+{
+  "name": "Json-server",
+  "version": "1.0.0",
+  "description": "NoSQL Json Server.",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch data.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsMdHabibullah/Json-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AsMdHabibullah/Json-server/issues"
+  },
+  "homepage": "https://github.com/AsMdHabibullah/Json-server#readme",
+  "devDependencies": {
+    "json-server": "^0.15.1"
+  }
+}
